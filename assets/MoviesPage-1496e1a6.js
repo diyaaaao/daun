@@ -1,0 +1,1 @@
+import{_ as e}from"./Media-667fd1a5.js";import{o,c as a,a as t}from"./index-0d204d03.js";/* empty css              */const s={class:"main"},p={__name:"MoviesPage",setup(c){return(r,_)=>(o(),a("div",s,[t(e,{type:"movie"})]))}};export{p as default};

@@ -1,0 +1,1 @@
+import{_ as a}from"./Dynamic-f07f1a69.js";import{x as t,y as o,o as r,c,a as s}from"./index-0d204d03.js";/* empty css              */const i={__name:"TvPage",setup(n){const e=t("reload");return o(()=>{e()}),(_,p)=>(r(),c("div",null,[s(a,{type:"tv"})]))}};export{i as default};
